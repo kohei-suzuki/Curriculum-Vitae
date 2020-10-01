@@ -8,7 +8,8 @@
 |生年月日|1979/06/28|
 |居住地|福岡県福岡市|
 |職業|フリーランス<br>ソフトウェアエンジニア|
-|Facebook|https://www.facebook.com/kohei.suzuking/|
+|稼働状況|余裕あり(2020/10時点)|
+|SNS|[Facebook](https://www.facebook.com/kohei.suzuking/)|
 
 ## スキル
 
@@ -96,12 +97,15 @@
 
 ## 資格
 
+#### [デジタルバッジ(Acclaim)](https://www.youracclaim.com/users/kohei-suzuking)
+
 |資格名|取得年月|
 |-----|--------|
-|ORACLE MASTER SILVER|2003/01|
+|AWS Certified Cloud Practitioner|2020/10|
+|ORACLE MASTER 9i Silver (失効)|2003/01|
 |XMLマスター:ベーシック|2003/01|
 
-最近はAWSを利用することが多くインフラ設計・構築もしているため、そろそろAWS認定資格を取得しようか考え中
+近日試験予定: AWS Certified Solutions Architect – Associate
 
 ## 自然言語
 
