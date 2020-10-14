@@ -15,25 +15,24 @@
 
 ### 言語
 
-- PHP 4~7
-- Java 1.3, 1.4, 6, 8, 11
-- JavaScript(Node.js ~12.x)
-- Python
-- Go
-- C, C++, C#
-- TypeScript
+- PHP 4~7 *※10年以上*
+- Java 1.3, 1.4, 6, 8, 11 *※5年以上*
+- JavaScript *※10年以上*
+- Node.js ~12.x *※半年未満*
+- TypeScript *※3ヶ月未満*
+- Python *※3ヶ月未満*
 - などなど
 
 ### フレームワーク
 
-- Spring Boot 1.5.x~2.2.x (Java)
-- CodeIgniter 2.x (PHP)
-- Laravel 5.8 (PHP)
-- Yii 2.0.x (PHP)
-- Vue.js(Nuxt.js 2.4.x) (JavaScript)
-- React 16.x (JavaScript)
-- Angular 2.0~6.0 (JavaScript)
-- jQuery (JavaScript)
+- Spring Boot 1.5.x~2.2.x (Java) *※2年以上*
+- CodeIgniter 2.x (PHP) *※2年以上*
+- Laravel 5.8 (PHP) *※3ヶ月未満*
+- Yii 2.0.x (PHP) *※3ヶ月未満*
+- Vue.js(Nuxt.js 2.4.x) (JavaScript) *※3ヶ月未満*
+- React 16.x (JavaScript) *※3ヶ月未満*
+- Angular 2.0~6.0 (JavaScript) *※3ヶ月未満*
+- jQuery (JavaScript) *※3年以上*
 - などなど
 
 ### RDBMS + NoSQL
