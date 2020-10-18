@@ -100,11 +100,12 @@
 
 |資格名|取得年月|
 |-----|--------|
+|AWS Certified Solutions Architect – Associate|2020/10|
 |AWS Certified Cloud Practitioner|2020/10|
 |ORACLE MASTER 9i Silver (失効)|2003/01|
 |XMLマスター:ベーシック|2003/01|
 
-近日試験予定: AWS Certified Solutions Architect – Associate
+年内試験予定？: AWS Certified Solutions Architect – Professional
 
 ## 自然言語
 
