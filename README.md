@@ -15,21 +15,21 @@
 
 ### 言語
 
-- PHP 4~7 *※10年以上*
+- PHP 4~8 *※10年以上*
 - Java 1.3, 1.4, 6, 8, 11 *※5年以上*
 - JavaScript *※10年以上*
-- Node.js ~12.x *※半年未満*
+- Node.js ~16.x *※半年未満*
 - TypeScript *※3ヶ月未満*
-- Python *※3ヶ月未満*
+- Python *※1年以上*
 - などなど
 
 ### フレームワーク
 
-- Spring Boot 1.5.x~2.2.x (Java) *※2年以上*
+- Spring Boot 1.5.x~2.6.x (Java) *※2年以上*
 - CodeIgniter 2.x (PHP) *※2年以上*
-- Laravel 5.8 (PHP) *※3ヶ月未満*
+- Laravel 5.8~8.x (PHP) *※半年未満*
 - Yii 2.0.x (PHP) *※3ヶ月未満*
-- Vue.js(Nuxt.js 2.4.x) (JavaScript) *※3ヶ月未満*
+- Vue.js(Nuxt.js 2.4.x~2.15.x) (JavaScript) *※半年未満*
 - React 16.x (JavaScript) *※3ヶ月未満*
 - Angular 2.0~6.0 (JavaScript) *※3ヶ月未満*
 - jQuery (JavaScript) *※3年以上*
@@ -38,6 +38,7 @@
 ### RDBMS + NoSQL
 
 - MySQL 4.1~8.0(+Amazon Aurora)
+- Amazon Redshift
 - Amazon DynamoDB
 - Redis
 - memcached
@@ -48,7 +49,7 @@
 - クラウドサービス
   - AWS
     - EC2, Lambda
-    - RDS, DynamoDB, ElastiCache
+    - RDS, Redshift, DynamoDB, ElastiCache
     - S3, CloudFront, API Gateway
     - SES, SNS, SQS, CloudWatch
     - Chatbot, CloudFormation(CDK)
@@ -91,7 +92,7 @@
 
 ## やったことはないが興味があるもの
 
-- 実務レベルでの一からのフロントエンド開発(趣味や個人サイトではあるが実務では基盤構築からはほぼなし)
+- 実務レベルでの一からのフロントエンド開発(趣味や個人サイトではあるが実務では基盤構築からの開発はほぼないので)
 - Amazon ECSやKubernetesを使った本番環境でのコンテナ運用(経験はゼロではないがもう少し本格的に経験したい)
 
 ## 資格
@@ -105,8 +106,6 @@
 |ORACLE MASTER 9i Silver (失効)|2003/01|
 |XMLマスター:ベーシック|2003/01|
 
-年内試験予定？: AWS Certified Solutions Architect – Professional
-
 ## 自然言語
 
 |言語|レベル|
@@ -119,6 +118,19 @@
 ### 2019/09 - 現在 : フリーランス
 
 職務: Webアプリケーションエンジニア(テックリード)
+
+#### CRMシステムの開発・運用
+
+<details>
+  <summary>案件詳細</summary>
+
+- POSデータや外部APIのデータといったクライアントがもつ様々なデータを集約してマーケティング試作や顧客行動の可視化などを行う開発
+- 主にバッチプログラムの開発で運用・保守も行った
+- 特にポジションは決まってはなくオフショア(ベトナム)メンバーと共にタスク分担をして全ての工程を担当
+- メンバー: 5〜7名
+- バックエンド: Python 3.5.x, Amazon Redshift, MySQL 5.7.x(Amazon Aurora), Amazon S3
+- その他: AWS
+</details>
 
 #### Auth0導入支援
 
