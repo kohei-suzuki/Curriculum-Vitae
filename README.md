@@ -48,8 +48,9 @@
 
 - クラウドサービス
   - AWS
-    - EC2, Lambda
+    - EC2, ECS(Fargate), Lambda
     - RDS, Redshift, DynamoDB, ElastiCache
+    - Kinesis Data Firehose
     - S3, CloudFront, API Gateway
     - SES, SNS, SQS, CloudWatch
     - Chatbot, CloudFormation(CDK)
@@ -83,18 +84,6 @@
   - Microsoft Teams
   - Discord
 
-## 強み
-
-- 数百万人以上の大規模Webサービスの運用・開発経験
-- ガラケー(低スペックサーバ)時代に培った技術と経験
-- あらゆる環境、開発手法やプロセスの経験
-- コーディングのスピードと正確性
-
-## やったことはないが興味があるもの
-
-- 実務レベルでの一からのフロントエンド開発(趣味や個人サイトではあるが実務では基盤構築からの開発はほぼないので)
-- Amazon ECSやKubernetesを使った本番環境でのコンテナ運用(経験はゼロではないがもう少し本格的に経験したい)
-
 ## 資格
 
 #### [デジタルバッジ(Acclaim)](https://www.youracclaim.com/users/kohei-suzuking)
@@ -113,6 +102,13 @@
 |日本語|ネイティブ、資格は特になし|
 |英語|オフショア開発経験(バングラデシュ、フィリピン、ベトナム、中国など) 2016/07~<br>Hearing: ミーティングでの簡単なヒアリング程度<br>Speaking: 実務で使えるレベルではない<br>Reading: 技術系のドキュメントであれば原文でも活用できる程度<br>Writing:チャットでのやりとりや簡単なドキュメント作成ができる程度|
 
+## 強み
+
+- 数百万人以上の大規模Webサービスの開発・運用経験
+- ガラケー(低スペックサーバ)時代に培った技術と経験
+- あらゆる開発環境、手法やプロセスの経験
+- コーディングのスピードと正確性
+
 ## 実務経歴(新しい順)
 
 ### 2019/09 - 現在 : フリーランス
@@ -122,7 +118,7 @@
 #### CRMシステムの開発・運用
 
 <details>
-  <summary>案件詳細</summary>
+  <summary>案件詳細①</summary>
 
 - POSデータや外部APIのデータといったクライアントがもつ様々なデータを集約してマーケティング試作や顧客行動の可視化などを行う開発
 - 主にバッチプログラムの開発で運用・保守も行った
@@ -130,6 +126,16 @@
 - メンバー: 5〜7名
 - バックエンド: Python 3.5.x, Amazon Redshift, MySQL 5.7.x(Amazon Aurora), Amazon S3
 - その他: AWS
+</details>
+
+<details>
+  <summary>案件詳細②</summary>
+
+- 案件①で集計したデータをWeb APIで提供を行う開発
+- APIの開発とFargateによるコンテナ環境の構築を行った
+- メンバー: 1名
+- バックエンド: Spring Boot 2.6.x(Java 11), Amazon ECS(Fargate), MySQL 5.7.x(Amazon Aurora), Amazon Kinesis Data Firehose
+- その他: AWS, GitHub Actions, Docker
 </details>
 
 #### Auth0導入支援
