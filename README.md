@@ -8,7 +8,7 @@
 |生年月日|1979/06/28|
 |居住地|福岡県福岡市(2017〜)<br>東京都(1998〜)|
 |職業|フリーランス<br>ソフトウェアエンジニア|
-|稼働状況|フルタイムで稼働中(2020/11〜)|
+|稼働状況|休業予定(2023/10〜)|
 |SNS|[Facebook](https://www.facebook.com/kohei.suzuking/)|
 
 ## スキル
@@ -18,9 +18,10 @@
 - PHP 4~8 *※10年以上*
 - Java 1.3, 1.4, 6, 8, 11 *※5年以上*
 - JavaScript *※10年以上*
-- Node.js ~16.x *※半年未満*
-- TypeScript *※3ヶ月未満*
-- Python *※1年以上*
+- Node.js ~16.x *※半年以上*
+- TypeScript *※半年以上*
+- Python 3.5~ *※2年以上*
+- Go 1.19~ *※3ヶ月以上*
 - などなど
 
 ### フレームワーク
@@ -29,6 +30,7 @@
 - CodeIgniter 2.x (PHP) *※2年以上*
 - Laravel 5.8~8.x (PHP) *※半年未満*
 - Yii 2.0.x (PHP) *※3ヶ月未満*
+- FastAPI 0.99.x (Python) *※3ヶ月未満*
 - Vue.js(Nuxt.js 2.4.x~2.15.x) (JavaScript) *※半年未満*
 - React 16.x (JavaScript) *※3ヶ月未満*
 - Angular 2.0~6.0 (JavaScript) *※3ヶ月未満*
@@ -39,6 +41,7 @@
 
 - MySQL 4.1~8.0(+Amazon Aurora)
 - Amazon Redshift
+- GCP BigQuery
 - Amazon DynamoDB
 - Redis
 - memcached
@@ -48,12 +51,20 @@
 
 - クラウドサービス
   - AWS
-    - EC2, ECS(Fargate), Lambda
-    - RDS, Redshift, DynamoDB, ElastiCache
-    - Kinesis Data Firehose
+    - VPC, EC2, ELB, ECS(Fargate), ECR, Lambda
+    - RDS, Redshift, DynamoDB, ElastiCache, EFS
+    - Kinesis Data Firehose, Athena
     - S3, CloudFront, API Gateway
-    - SES, SNS, SQS, CloudWatch
-    - Chatbot, CloudFormation(CDK)
+    - Route 53, ACM, WAF, Cognito
+    - SES, SNS, SQS, CloudWatch, EventBridge
+    - Systems Manager, Secrets Manager
+    - Chatbot, CloudFormation(CDK), Amplify
+    - などなど
+  - GCP
+    - BigQuery
+    - Cloud Scheduler, Pub/Sub, Cloud Functions
+    - Natural Language API
+    - Google Search Console API
     - などなど
 - SaaS
   - Auth0
@@ -61,6 +72,10 @@
   - SendGrid
   - Twilio
   - New Relic
+  - Datadog
+- BIツール
+  - Looker Studio
+  - Power BI
 - 仮想化
   - Docker
   - Vagrant(+Chef)
@@ -114,6 +129,44 @@
 ### 2019/09 - 現在 : フリーランス
 
 職務: Webアプリケーションエンジニア(テックリード)
+
+#### GovTech開発・運用
+
+<details>
+  <summary>案件詳細①</summary>
+
+- 映像を解析するため動画ファイルのアップロードやカメラを管理する基盤を構築する開発
+- Amplifyを初めて利用した開発となった
+- バックエンドの詳細設計、プログラミング、単体テストまでを担当
+- メンバー: 4名
+- バックエンド: Python 3.10.x(AWS Lambda), Node.js 18.x(TypeScript, CDK), MySQL 8.0.x(Amazon Aurora), Amazon DynamoDB, Amazon S3, Amazon Cognito
+- その他: AWS, Amplify, GitHub Actions, Docker
+</details>
+
+<details>
+  <summary>案件詳細②</summary>
+
+- ある自治体のHPでの行動ログ(アクセス状況、検索ワード、推測属性など)と自治体に関するTwitterに投稿されるツイートとそのツイートに関する感情分析を行い、可視化できるダッシュボードを構築する開発と運用
+- GCPを初めて利用したがAWSの経験が活き問題なく進められた
+- Twitter APIを使用していたため突然の仕様変更には戸惑わされた
+- 主にバックエンドが中心で要件定義からテストまで全てを担当
+- メンバー: 4名
+- フロントエンド: Power BI, Looker Studio
+- バックエンド: Go 1.19.x(Cloud Functions), Python 3.10.x(Cloud Functions), GCP BigQuery
+- その他: GCP, Google Analytics, Google Search Console API, Twitter API, Natural Language API
+</details>
+
+<details>
+  <summary>案件詳細③</summary>
+
+- 自治体アプリの実証実験のため手続をオンライン申請で行うAPIを開発
+- Goを本格的に使った初めての開発となった
+- バックエンドの詳細設計、プログラミング、単体テストまでを担当
+- メンバー: 2名
+- フロントエンド: Flutter 2
+- バックエンド: Echo 4.x(Go 1.19.x), Node.js 18.x(TypeScript, CDK), Amazon ECS(Fargate), MySQL 8.0.x(Amazon Aurora), Amazon S3
+- その他: AWS, GitHub Actions, Docker
+</details>
 
 #### CRMシステムの開発・運用
 
