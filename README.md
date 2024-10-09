@@ -8,7 +8,7 @@
 |生年月日|1979/06/28|
 |居住地|福岡県福岡市(2017〜)<br>東京都(1998〜)|
 |職業|フリーランス<br>ソフトウェアエンジニア|
-|稼働状況|休業予定(2023/10〜)|
+|稼働状況|フルタイムで稼働中(2023/11〜)|
 |SNS|[Facebook](https://www.facebook.com/kohei.suzuking/)|
 
 ## スキル
@@ -28,7 +28,7 @@
 
 - Spring Boot 1.5.x~2.6.x (Java) *※2年以上*
 - CodeIgniter 2.x (PHP) *※2年以上*
-- Laravel 5.8~8.x (PHP) *※半年未満*
+- Laravel 5.8~10.x (PHP) *※2年以上*
 - Yii 2.0.x (PHP) *※3ヶ月未満*
 - FastAPI 0.99.x (Python) *※3ヶ月未満*
 - Vue.js(Nuxt.js 2.4.x~2.15.x) (JavaScript) *※半年未満*
@@ -90,6 +90,7 @@
 - プロジェクト管理ツール
   - Backlog
   - Redmine
+  - GitHub Projects
 - チャットツール
   - Slack
   - Chatwork
@@ -105,8 +106,8 @@
 
 |資格名|取得年月|
 |-----|--------|
-|AWS Certified Solutions Architect – Associate|2020/10|
-|AWS Certified Cloud Practitioner|2020/10|
+|AWS Certified Solutions Architect – Associate (失効)|2020/10|
+|AWS Certified Cloud Practitioner (失効)|2020/10|
 |ORACLE MASTER 9i Silver (失効)|2003/01|
 |XMLマスター:ベーシック|2003/01|
 
@@ -128,7 +129,32 @@
 
 ### 2019/09 - 現在 : フリーランス
 
-職務: Webアプリケーションエンジニア(テックリード)
+職務: Webアプリケーションエンジニア(テックリード、アーキテクト)
+
+#### 飲食店公式アプリ、Webサイトの開発・運用
+
+<details>
+  <summary>案件詳細①</summary>
+
+- 飲食店公式アプリの開発
+- バックエンドを担当してREST APIとCMS(管理画面)、バッチの開発を行った
+- 数十万人のユーザー利用しているアプリのためAPIのパフォーマンスを考えた設計、レビュー、テストを行った
+- アーキテクトとしてバックエンドの要件定義、概要設計を担当して詳細設計、プログラミング、テストはオフショア(ベトナム)で行った
+- メンバー: 20名
+- バックエンド: Laravel 10(PHP 8.2), Amazon ECS(Fargate), MySQL 8.0.x(Amazon Aurora)
+- その他: AWS, GCP, GitHub Actions, Docker, SendGrid, JMeter
+</details>
+
+<details>
+  <summary>案件詳細②</summary>
+
+- 飲食店のテイクアウト・通販サイトの開発
+- Magentoで構築されたサイトを別ベンダーから引き継ぎ開発を行ったが、Magento自体が初めてだったため苦労した
+- アーキテクトとして要件定義、概要設計を担当して詳細設計、プログラミング、テストはオフショア(ベトナム)で行った
+- メンバー: 10名
+- バックエンド: Magento(PHP 8.1), MySQL 8.0.x(Amazon Aurora) Redis(Amazon ElastiCache)
+- その他: AWS, Fastly, GitHub, Docker, SendGrid, JMeter
+</details>
 
 #### GovTech開発・運用
 
