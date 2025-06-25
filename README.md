@@ -8,7 +8,7 @@
 |生年月日|1979/06/28|
 |居住地|福岡県福岡市(2017〜)<br>東京都(1998〜)|
 |職業|フリーランス<br>ソフトウェアエンジニア|
-|稼働状況|休業中(2025/02〜)|
+|稼働状況|フルタイム稼働中(2025/03〜)|
 |SNS|[Facebook](https://www.facebook.com/kohei.suzuking/)|
 
 ## スキル
@@ -16,10 +16,10 @@
 ### 言語
 
 - PHP 4~8 *※10年以上*
-- Java 1.3, 1.4, 6, 8, 11 *※5年以上*
+- Java 1.3, 1.4, 6, 8, 11, 17, 21 *※5年以上*
 - JavaScript *※10年以上*
-- Node.js ~16.x *※半年以上*
-- TypeScript *※半年以上*
+- Node.js ~16.x *※1年以上*
+- TypeScript *※1年以上*
 - Python 3.5~ *※2年以上*
 - Go 1.19~ *※3ヶ月以上*
 - などなど
@@ -27,6 +27,7 @@
 ### フレームワーク
 
 - Spring Boot 1.5.x~2.6.x (Java) *※2年以上*
+- Quarkus 3.7.x~3.21.x (Java) *※6ヶ月未満*
 - CodeIgniter 2.x (PHP) *※2年以上*
 - Laravel 5.8~10.x (PHP) *※2年以上*
 - Yii 2.0.x (PHP) *※3ヶ月未満*
@@ -41,7 +42,7 @@
 
 - MySQL 4.1~8.0(+Amazon Aurora)
 - Amazon Redshift
-- GCP BigQuery
+- Google Cloud BigQuery
 - Amazon DynamoDB
 - Redis
 - memcached
@@ -51,7 +52,7 @@
 
 - クラウドサービス
   - AWS
-    - VPC, EC2, ELB, ECS(Fargate), ECR, Lambda
+    - VPC, EC2, ELB, ECS(Fargate), EKS, ECR, Lambda
     - RDS, Redshift, DynamoDB, ElastiCache, EFS
     - Kinesis Data Firehose, Athena
     - S3, CloudFront, API Gateway
@@ -60,7 +61,7 @@
     - Systems Manager, Secrets Manager
     - Chatbot, CloudFormation(CDK), Amplify
     - などなど
-  - GCP
+  - Google Cloud
     - BigQuery
     - Cloud Scheduler, Pub/Sub, Cloud Functions
     - Natural Language API
@@ -102,7 +103,7 @@
 
 ## 資格
 
-#### [デジタルバッジ(Acclaim)](https://www.youracclaim.com/users/kohei-suzuking)
+#### [デジタルバッジ(Credly)](https://www.credly.com/users/kohei-suzuking)
 
 |資格名|取得年月|
 |-----|--------|
@@ -131,6 +132,30 @@
 
 職務: Webアプリケーションエンジニア(テックリード、アーキテクト)
 
+#### クリエイターDXのツール開発・運用
+
+<details>
+  <summary>案件詳細①</summary>
+
+- 各SNSからデータ収集をするツールの開発
+- Camelを使った開発で新たな挑戦となった
+- バックエンドの要件定義からテストまで全てを担当
+- メンバー: 2名
+- バックエンド: Quarkus 3.21.x(Kotlin/Java 21), Apache Camel, Amazon EKS, MySQL 8.0.x(Amazon Aurora), Amazon S3, Amazon Secrets Manager, Amazon EventBridge
+- その他: AWS, GitHub Actions, Docker, Datadog
+</details>
+
+<details>
+  <summary>案件詳細②</summary>
+
+- 各SNSへの動画投稿の自動化ツールの保守
+- Kotlinを本格的に使った初めての開発となった
+- バックエンドの要件定義からテストまで全てを担当
+- メンバー: 2名
+- バックエンド: Quarkus 3.7.x(Kotlin/Java 17), Amazon EKS, MySQL 8.0.x(Amazon Aurora), Amazon S3
+- その他: AWS, GitHub Actions, Docker, Datadog
+</details>
+
 #### 飲食店公式アプリ、Webサイトの開発・運用
 
 <details>
@@ -142,7 +167,7 @@
 - アーキテクトとしてバックエンドの要件定義、概要設計を担当して詳細設計、プログラミング、テストはオフショア(ベトナム)で行った
 - メンバー: 20名
 - バックエンド: Laravel 10(PHP 8.2), Amazon ECS(Fargate), MySQL 8.0.x(Amazon Aurora)
-- その他: AWS, GCP, GitHub Actions, Docker, SendGrid, JMeter
+- その他: AWS, Google Cloud, GitHub Actions, Docker, SendGrid, JMeter
 </details>
 
 <details>
@@ -173,13 +198,13 @@
   <summary>案件詳細②</summary>
 
 - ある自治体のHPでの行動ログ(アクセス状況、検索ワード、推測属性など)と自治体に関するTwitterに投稿されるツイートとそのツイートに関する感情分析を行い、可視化できるダッシュボードを構築する開発と運用
-- GCPを初めて利用したがAWSの経験が活き問題なく進められた
+- Google Cloudを初めて利用したがAWSの経験が活き問題なく進められた
 - Twitter APIを使用していたため突然の仕様変更には戸惑わされた
 - 主にバックエンドが中心で要件定義からテストまで全てを担当
 - メンバー: 4名
 - フロントエンド: Power BI, Looker Studio
-- バックエンド: Go 1.19.x(Cloud Functions), Python 3.10.x(Cloud Functions), GCP BigQuery
-- その他: GCP, Google Analytics, Google Search Console API, Twitter API, Natural Language API
+- バックエンド: Go 1.19.x(Cloud Functions), Python 3.10.x(Cloud Functions), Google Cloud BigQuery
+- その他: Google Cloud, Google Analytics, Google Search Console API, Twitter API, Natural Language API
 </details>
 
 <details>
