@@ -8,7 +8,7 @@
 |生年月日|1979/06/28|
 |居住地|福岡県福岡市(2017〜)<br>東京都(1998〜)|
 |職業|フリーランス<br>ソフトウェアエンジニア|
-|稼働状況|フルタイム稼働中(2025/03〜)|
+|稼働状況|休業中(2026/02〜)|
 |SNS|[Facebook](https://www.facebook.com/kohei.suzuking/)|
 
 ## スキル
@@ -18,8 +18,8 @@
 - PHP 4~8 *※10年以上*
 - Java 1.3, 1.4, 6, 8, 11, 17, 21 *※5年以上*
 - JavaScript *※10年以上*
-- Node.js ~16.x *※1年以上*
-- TypeScript *※1年以上*
+- Node.js ~22.x *※2年以上*
+- TypeScript *※2年以上*
 - Python 3.5~ *※2年以上*
 - Go 1.19~ *※3ヶ月以上*
 - などなど
@@ -32,6 +32,7 @@
 - Laravel 5.8~10.x (PHP) *※2年以上*
 - Yii 2.0.x (PHP) *※3ヶ月未満*
 - FastAPI 0.99.x (Python) *※3ヶ月未満*
+- Express.js 4.x (JavaScript) *※1年以上*
 - Vue.js(Nuxt.js 2.4.x~2.15.x) (JavaScript) *※半年未満*
 - React 16.x (JavaScript) *※3ヶ月未満*
 - Angular 2.0~6.0 (JavaScript) *※3ヶ月未満*
@@ -41,6 +42,7 @@
 ### RDBMS + NoSQL
 
 - MySQL 4.1~8.0(+Amazon Aurora)
+- PostgreSQL 16(+Amazon Aurora)
 - Amazon Redshift
 - Google Cloud BigQuery
 - Amazon DynamoDB
@@ -53,7 +55,7 @@
 - クラウドサービス
   - AWS
     - VPC, EC2, ELB, ECS(Fargate), EKS, ECR, Lambda
-    - RDS, Redshift, DynamoDB, ElastiCache, EFS
+    - RDS(Aurora), Redshift, DynamoDB, ElastiCache, EFS
     - Kinesis Data Firehose, Athena
     - S3, CloudFront, API Gateway
     - Route 53, ACM, WAF, Cognito
@@ -131,6 +133,34 @@
 ### 2019/09 - 現在 : フリーランス
 
 職務: Webアプリケーションエンジニア(テックリード、アーキテクト)
+
+#### LINEミニアプリの開発・運用
+
+<details>
+  <summary>案件詳細</summary>
+
+- LINEミニアプリの開発
+- バックエンドを担当してREST APIの開発とインフラ構築を行った
+- LINEミニアプリの開発を始めて行った
+- バックエンドのメンバーと共にタスク分担をして全ての工程を担当
+- メンバー: 3名
+- バックエンド: Express.js 4.21.x + TypeScript(Node.js 22.x), Amazon API Gateway, Lambda, Amazon DynamoDB, Amazon S3, CDK
+- その他: AWS, GitHub Actions, Docker
+</details>
+
+#### 健康・フィットネスアプリの開発・運用
+
+<details>
+  <summary>案件詳細</summary>
+
+- 健康・フィットネスアプリの開発
+- バックエンドを担当してREST APIの開発とインフラ構築を行った
+- TypeScriptを使ったAPI開発を始めて行った
+- バックエンドのメンバーと共にタスク分担をして全ての工程を担当
+- メンバー: 6名
+- バックエンド: Express.js 4.21.x + TypeScript(Node.js 22.x), Amazon ECS(Fargate), PostgreSQL 16.x(Amazon Aurora Serverless), Amazon DynamoDB, Amazon S3, Lambda, CDK
+- その他: AWS, GitHub Actions, Docker
+</details>
 
 #### クリエイターDXのツール開発・運用
 
