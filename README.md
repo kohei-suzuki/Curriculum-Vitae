@@ -8,7 +8,7 @@
 |生年月日|1979/06/28|
 |居住地|福岡県福岡市(2017〜)<br>東京都(1998〜)|
 |職業|フリーランス<br>ソフトウェアエンジニア|
-|稼働状況|休業中(2026/02〜)|
+|稼働状況|休業中(2026/05〜)|
 |SNS|[Facebook](https://www.facebook.com/kohei.suzuking/)|
 
 ## スキル
@@ -18,7 +18,6 @@
 - PHP 4~8 *※10年以上*
 - Java 1.3, 1.4, 6, 8, 11, 17, 21 *※5年以上*
 - JavaScript *※10年以上*
-- Node.js ~22.x *※2年以上*
 - TypeScript *※2年以上*
 - Python 3.5~ *※2年以上*
 - Go 1.19~ *※3ヶ月以上*
@@ -119,7 +118,7 @@
 |言語|レベル|
 |-----|-----|
 |日本語|ネイティブ、資格は特になし|
-|英語|オフショア開発経験(バングラデシュ、フィリピン、ベトナム、中国など) 2016/07~<br>Hearing: ミーティングでの簡単なヒアリング程度<br>Speaking: 実務で使えるレベルではない<br>Reading: 技術系のドキュメントであれば原文でも活用できる程度<br>Writing:チャットでのやりとりや簡単なドキュメント作成ができる程度|
+|英語|オフショア開発経験(バングラデシュ、フィリピン、ベトナム、中国など) 2016/07~2020/10<br>Hearing: ミーティングでの簡単なヒアリング程度<br>Speaking: 実務で使えるレベルではない<br>Reading: 技術系のドキュメントであれば原文でも活用できる程度<br>Writing:チャットでのやりとりや簡単なドキュメント作成ができる程度|
 
 ## 強み
 
@@ -134,7 +133,7 @@
 
 職務: Webアプリケーションエンジニア(テックリード、アーキテクト)
 
-#### LINEミニアプリの開発・運用
+#### LINEミニアプリの開発・運用 2025/12 - 2026/01
 
 <details>
   <summary>案件詳細</summary>
@@ -148,7 +147,7 @@
 - その他: AWS, GitHub Actions, Docker
 </details>
 
-#### 健康・フィットネスアプリの開発・運用
+#### 健康・フィットネスアプリの開発・運用 2025/08 - 2026/01
 
 <details>
   <summary>案件詳細</summary>
@@ -162,7 +161,7 @@
 - その他: AWS, GitHub Actions, Docker
 </details>
 
-#### クリエイターDXのツール開発・運用
+#### クリエイターDXのツール開発・運用 2025/03 - 2025/07
 
 <details>
   <summary>案件詳細①</summary>
@@ -186,7 +185,7 @@
 - その他: AWS, GitHub Actions, Docker, Datadog
 </details>
 
-#### 飲食店公式アプリ、Webサイトの開発・運用
+#### 飲食店公式アプリ、Webサイトの開発・運用 2023/11 - 2025/01
 
 <details>
   <summary>案件詳細①</summary>
@@ -211,7 +210,7 @@
 - その他: AWS, Fastly, GitHub, Docker, SendGrid, JMeter
 </details>
 
-#### GovTech開発・運用
+#### GovTech開発・運用 2022/09 - 2023/09
 
 <details>
   <summary>案件詳細①</summary>
@@ -249,7 +248,7 @@
 - その他: AWS, GitHub Actions, Docker
 </details>
 
-#### CRMシステムの開発・運用
+#### CRMシステムの開発・運用 2020/11 - 2022/09
 
 <details>
   <summary>案件詳細①</summary>
@@ -272,7 +271,7 @@
 - その他: AWS, GitHub Actions, Docker
 </details>
 
-#### Auth0導入支援
+#### Auth0導入支援 2020/07 - 2020/09
 
 <details>
   <summary>案件詳細</summary>
@@ -284,7 +283,7 @@
 - その他: Auth0, SendGrid, Twilio, GitLab, Docker
 </details>
 
-#### LINEを利用したマーケティングツールの開発
+#### LINEを利用したマーケティングツールの開発 2020/01 - 2020/09
 
 <details>
   <summary>案件詳細</summary>
@@ -300,7 +299,7 @@
 - その他: AWS, GitLab, Docker
 </details>
 
-#### カラオケアプリのリニューアル開発
+#### カラオケアプリのリニューアル開発 2019/12 - 2020/07
 
 <details>
   <summary>案件詳細</summary>
@@ -316,7 +315,7 @@
 - その他: AWS, GitHub, Docker, JMeter
 </details>
 
-#### ポイントサイトの横断比較サービスの開発
+#### ポイントサイトの横断比較サービスの開発 2019/09 - 2019/11
 
 <details>
   <summary>案件詳細</summary>
